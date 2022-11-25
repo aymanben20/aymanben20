@@ -14,3 +14,5 @@ d = 50
 print(np.mean(c,d))
 
 a = 20
+b = 50
+c = 90
