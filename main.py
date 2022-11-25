@@ -4,15 +4,7 @@ import pandas as pd
 
 a = 10
 b = 20
-d = np.mean(a,b)
-print(d)
+print(a*b)
 
 
-c = 5
-d = 50
 
-print(np.mean(c,d))
-
-a = 20
-b = 50
-c = 90
