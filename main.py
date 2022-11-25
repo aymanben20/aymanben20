@@ -12,3 +12,5 @@ c = 5
 d = 50
 
 print(np.mean(c,d))
+
+a = 20
